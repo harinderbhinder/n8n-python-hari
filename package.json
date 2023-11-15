@@ -1,9 +1,9 @@
 {
   "name": "n8n-nodes-python-hari",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Run Python on n8n.",
   "license": "Apache 2.0 with Commons Clause",
-  "homepage": "https://github.com/naskio/n8n-nodes-python",
+  "homepage": "https://github.com/harinderbhinder/n8n-python-hari",
   "author": {
     "name": "Harinder Singh",
     "email": "contact@nask.io",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naskio/n8n-nodes-python.git"
+    "url": "git+https://github.com/harinderbhinder/n8n-python-hari.git"
   },
   "keywords": [
     "n8n",
